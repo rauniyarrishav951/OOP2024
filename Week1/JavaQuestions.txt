@@ -1,0 +1,22 @@
+If you complete the exercises above, answer the following questions.
+
+a. What is the latest version of the Java SDK that is available?
+Ans Java SE 21.0.2
+
+b. What is the difference between Java SE and Java ME?
+Ans Java SE
+  *The standard edition of Java, known as Java SE, is designed for creating desktop, server, and business applications.
+  *It has tools for creating graphical user interfaces (GUIs), like JavaFX and Swing.
+
+  Java ME
+  *A reduced-featured version of Java, known as Java ME, is made for tiny, resource-constrained devices like mobile phones and embedded computers.
+  *Java ME offers a variety of profiles and configurations to cater to various device kinds and needs.
+
+c. Which operating system is Java available for?
+Ans Java runs very well on Windows, macOS and Linux Distributions.
+
+d. What is the most popular IDE available for Java apart from Eclipse?
+Ans IntelliJ IDEA
+
+e. What is the main() function for in a Java program?
+Ans In Java, the main() function receives a single String array as input.
